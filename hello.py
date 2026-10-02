@@ -1,4 +1,3 @@
-print("Hello world")
+print("Hello git")
 
-print("HELLO GITHUB")
-print("DEvops practical")
+print("welcome to github repository")
